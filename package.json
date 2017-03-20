@@ -1,0 +1,17 @@
+{
+  "name": "loke-repo-meta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "execa": "^0.6.1",
+    "git-parse-commit": "^1.0.0",
+    "p-props": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominic Smith <dominic.smith@loke.com.au>",
+  "license": "ISC"
+}
